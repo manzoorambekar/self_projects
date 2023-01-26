@@ -1,6 +1,5 @@
 
-Pre-Requisites:
---------------
+# Pre-Requisites:
     * G++ Compiler. (https://gcc.gnu.org/)
 
     * C-SXC Class Library for Extended Scientific Computing  2.5.4 (http://www2.math.uni-wuppertal.de/wrswt/xsc/cxsc/apidoc/html/index.html)
@@ -15,8 +14,7 @@ Pre-Requisites:
 
             * Numpy (https://numpy.org/)
 
-Execution:
----------
+# Execution:
 
 * Run the build.bat file to compile and run the C++ program.
 	* Provide the appropriate SNR and Modulation indexes.

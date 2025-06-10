@@ -11,7 +11,8 @@ Each folder represents a standalone project or learning module. Topics vary base
 
 | Project | Description |
 |---------|-------------|
-| `BER Optimization for MIMO using CSXC` | Practice programs using bitwise logic and macros in C. |
-| `RoboSantral` | Practice programs using bitwise logic and macros in C. |
-| `SDR Using Adalm-Pluto` | Practice programs using bitwise logic and macros in C. |
-| `VHDL Self Practice` | Practice programs using bitwise logic and macros in C. |
+| `RoboSantral` | Autonomous guide robot for the museums (Bachelor's Thesis topic) |
+| `Electronic Safe with IOT` |  |
+| `BER Optimization for MIMO using CSXC` | Project for the simulation of complex systems to understand Lagrangian Optimization |
+| `SDR Using Adalm-Pluto` | Software Defined Radio for QAM modulation transreceiver using Adalm-Pluto |
+| `VHDL Self Practice` | Practice programs to learn VHDL |

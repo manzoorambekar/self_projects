@@ -16,6 +16,6 @@ Each folder represents a standalone project or learning module. Topics vary base
 | `03_SDR Using Adalm-Pluto` | Software Defined Radio projects using Adalm-Pluto, including QAM modulation transceivers |
 | `04_BER Optimization for MIMO using CSXC` | Project for the simulation of complex systems to understand Lagrangian Optimization |
 | `05_VHDL Self Practice` | Practice programs and exercises to learn VHDL |
-| `06_Data analysis on Pulse Oximetry` | Practice programs to learn VHDL |
+| `06_Data analysis on Pulse Oximetry` | Data analysis and signal processing on pulse oximetry readings, including algorithms for extracting SpO₂ and heart rate from raw sensor data |
 
 Feel free to explore any folder for detailed documentation, code, and insights into each project!

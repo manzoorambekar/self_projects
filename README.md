@@ -1,4 +1,4 @@
-# Projects – Manzoor Ambekar
+# Projects - Manzoor Ambekar
 
 Welcome to my **Projects** repository!  
 This is a collection of diverse projects I've worked on out of curiosity, interest, or a desire to explore new areas. While many projects are rooted in embedded systems and C programming, others reflect my learning in different domains such as system programming, scripting, and software tooling.

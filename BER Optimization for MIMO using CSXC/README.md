@@ -76,10 +76,10 @@ Graphs and tabulated results clearly show that power allocation leads to substan
 ```
 BER Optimization for MIMO using CSXC/
 ├── src/                      # Source files for simulation
-├── plots/                    # Graphs of SNR vs BER
-├── report/                   # Project report PDF
-├── README.md                 # Project description
-└── data/                     # Output and tabulated data
+├── inc/                      # Header files
+├── data/                     # Output and tabulated data
+├── Docs/                     # Project documentations
+└── README.md                 # Project description
 ```
 
 ---
@@ -94,9 +94,9 @@ BER Optimization for MIMO using CSXC/
 
 ## 👨‍🎓 Authors
 
-- **Tilak Dal**  
 - **Manzoor Ambekar**  
-- **Mohit Singh Bhandari**  
+- **Mohit Singh Bhandari**
+- **Tilak Dal**  
 - **Mayur Mankar**
 
 Under the guidance of **Prof. Dr. rer.nat. habil Ekatrina Auer**, Hochschule Wismar.
